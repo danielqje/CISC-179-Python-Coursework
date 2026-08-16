@@ -20,4 +20,4 @@ Python coursework completed for my computer and info sciences course Introductio
 
 ## Purpose
 
-This repository contains coursework and practice exercises completed while learning foundational Python programming concepts
+This repository contains coursework and practice exercises completed while learning foundational Python programming concepts.
